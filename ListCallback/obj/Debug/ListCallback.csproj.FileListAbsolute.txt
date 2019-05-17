@@ -1,0 +1,6 @@
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\bin\Debug\ListCallback.dll.config
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\bin\Debug\ListCallback.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\bin\Debug\ListCallback.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\obj\Debug\ListCallback.csproj.CoreCompileInputs.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\obj\Debug\ListCallback.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ListCallback\obj\Debug\ListCallback.pdb

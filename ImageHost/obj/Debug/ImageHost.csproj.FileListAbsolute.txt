@@ -1,0 +1,14 @@
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageHost.exe.config
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageHost.exe
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageHost.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageUploadContract.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageUploadContract.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ImageUploadContract.dll.config
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\obj\Debug\ImageHost.csprojAssemblyReference.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\obj\Debug\ImageHost.csproj.CoreCompileInputs.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\obj\Debug\ImageHost.csproj.CopyComplete
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\obj\Debug\ImageHost.exe
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\obj\Debug\ImageHost.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ListCallback.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ListCallback.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageHost\bin\Debug\ListCallback.dll.config

@@ -1,0 +1,14 @@
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageClient.exe.config
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageClient.exe
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageClient.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.Form1.resources
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.Properties.Resources.resources
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.csproj.GenerateResource.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.csproj.CoreCompileInputs.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.exe
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageUploadContract.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageUploadContract.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\bin\Debug\ImageUploadContract.dll.config
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.csprojAssemblyReference.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageClient\obj\Debug\ImageClient.csproj.CopyComplete

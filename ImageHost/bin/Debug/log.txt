@@ -1,0 +1,44 @@
+1
+System.String[]
+4
+System.String[]
+TestTEsttest.jpg
+4
+System.String[]
+Nowytest4.jpg
+4
+System.String[]
+TestTEsttest.jpg
+4
+System.String[]
+Nowytest4.jpg
+TestTEsttest.jpg vs Nowy/test4.jpg
+Co tam ziomuś?
+False
+Nowytest4.jpg vs Nowy/test4.jpg
+Co tam ziomuś?
+False
+TestTEsttest.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+False
+Nowytest4.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+True
+TestTEsttest.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+False
+Nowytest4.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+True
+TestTEsttest.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+False
+Nowytest4.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+True
+TestTEsttest.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+False
+Nowytest4.jpg vs Nowytest4.jpg
+Co tam ziomuś?
+True

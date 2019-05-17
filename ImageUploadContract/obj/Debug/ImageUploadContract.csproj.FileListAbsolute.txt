@@ -1,0 +1,6 @@
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\bin\Debug\ImageUploadContract.dll.config
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\bin\Debug\ImageUploadContract.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\bin\Debug\ImageUploadContract.pdb
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\obj\Debug\ImageUploadContract.csproj.CoreCompileInputs.cache
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\obj\Debug\ImageUploadContract.dll
+C:\Users\epicm\source\repos\ImageUploadContract\ImageUploadContract\obj\Debug\ImageUploadContract.pdb
